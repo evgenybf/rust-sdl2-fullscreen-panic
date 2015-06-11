@@ -1,0 +1,8 @@
+[package]
+name = "rust-sdl2-fullscreen-panic"
+version = "0.1.0"
+authors = ["Evgeny Filatov <evgenybf@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.2.3"
+sdl2_image = "0.2.1"
